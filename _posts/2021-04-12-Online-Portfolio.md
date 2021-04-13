@@ -84,8 +84,26 @@ categories: protfolio update
 <br/>
 
  Line Messenger's business-specific product, which is widely used in Japan and Southeast Asia. This service provides not only instant messaging but also a wide range of services used in the business, including email, cloud, and calendar. In addition, accurate and fast service delivery using MQTT technology is used.
+<br/>Conducts a project that analyzes instant messaging content and provides personalized service to individual users by combining instant messaging and natural language processing artificial intelligence.
+<br/>
+<br/>
+***
+<br/>
+<br/>
 
- Conducts a project that analyzes instant messaging content and provides personalized service to individual users by combining instant messaging and natural language processing artificial intelligence.
-
-
+**SDEnternet Inc.** / Programmer *February. 2014 - August. 2016, Seoul, Korea*
+<br/>
+<br/>
+<p align="center">
+  <img src="/assets/images/beetlewing_img_01.png" title="Beetlewing" alt="beetlewing"></img>
+</p>
+<br/>
+Upgraded mobile version of the online game 'Beetlewing', which became popular as a feature of shooting games and casual flying games. <br/>Mobile re-creation of 'Battlewing' which was selected as a superior work in digital contents by the Ministry of Information and Communication. Availabled in Korea, the United States (English-speaking countries), Japan, China, Vietnam and Brazil (Portuguese)
+<br/>
+<br/>
+<p align="center">
+  <img src="/assets/images/navyfield_img_01.png" title="NavyField" alt="navyfiel"></img>
+</p>
+<br/>
+Strategic simulation mobile game based on the online naval battle game 'Navyfield'.<br/>This project was not opened to the public because it was an internal project.
 
