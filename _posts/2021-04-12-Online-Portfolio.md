@@ -89,7 +89,6 @@ categories: protfolio update
 <p align="center">
  <b>Mobile Messenger - natural language process A.I.</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/line_works_logo.png" title="Line works" alt="lineworks"/>
 </p>
@@ -111,7 +110,6 @@ categories: protfolio update
 <p align="center">
  <b>BeetleWing - Mobile Shooting Game</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/beetlewing_img_01.png" title="Beetlewing" alt="beetlewing"/>
 </p>
@@ -123,7 +121,6 @@ Upgraded mobile version of the online game 'Beetlewing', which became popular as
 <p align="center">
  <b>NavyField Mobile - Mobile strategy simulation game</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/navyfield_img_01.png" title="NavyField" alt="navyfiel"/>
 </p>
@@ -143,7 +140,6 @@ Strategic simulation mobile game based on the online naval battle game 'Navyfiel
 <p align="center">
  <b>Cotras - Computerized Cognitive Training Program</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/cotras_img_01.png" title="cotras" alt="cotras"/>
 </p>
@@ -156,7 +152,6 @@ It provides game-type contents to the elderly and the risk group of dementia, he
 <p align="center">
  <b>Cotras-M - Computerized Cognitive Training Program (Mobile)</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/cotras_m_img_01.png" title="cotras_m" alt="cotras_m"/>
 </p>
@@ -177,7 +172,6 @@ A mobile version of the PC-based ‘Cortras’ program that is implanted into An
 <p align="center">
  <b>MusicMaker - Automatic composition application using voice</b>
 </p>
-<br/>
 <p align="center">
   <img src="/assets/images/musicmaker_img_01.png" title="musicmaker" alt="musicmaker"/>
 </p>
@@ -194,10 +188,15 @@ Humming is the easiest music people can make. However moving and organizing thes
 
 # Cover Letter
 
-I have five years of experience developing android, iOS mobile applications. My professional skills perfectly align programming job.
-<br>
-  I earned two bachelor's degrees from Kyung Hee University, Computer Engineering and Electronics and Radio Engineering. My first career started with the medical IT company. I developed software to assist treatment in the hospital and provided software to more than 50 institutions including university and general hospitals. I also successfully led the project by participating in many medical conferences and exhibitions.
-<br>
-  In my second career, I was a responsible and reliable developer as a key member of SD Enternet's mobile game development team. My role was to write native code using C++ and run it on Android mobile apps using JNI. I customized the applications to work on iOS as well as Android, and developed various services using open API functions provided by Google, Facebook, and Twitter. In addition, I provided services to over 100,000 gamers in five countries without any problems. After successfully finishing the project in the SD Enternet, I was promoted to team leader and proceeded with the new project. I communicated with the game design, app design team and carried out the project smoothly.
-<br>
-  Recently, I am working on personal projects using React and Javascript because I am interested in not only native applications, also web and hybrid applications. I believe my expertises of works and interest will contribute to new success as a member of new job. 
+<p>
+   I have five years of experience developing android, iOS mobile applications. My professional skills perfectly align programming job.
+ <br>
+ <br>
+   I earned two bachelor's degrees from Kyung Hee University, Computer Engineering and Electronics and Radio Engineering. My first career started with the medical IT company. I developed software to assist treatment in the hospital and provided software to more than 50 institutions including university and general hospitals. I also successfully led the project by participating in many medical conferences and exhibitions.
+ <br>
+ <br>
+   In my second career, I was a responsible and reliable developer as a key member of SD Enternet's mobile game development team. My role was to write native code using C++ and run it on Android mobile apps using JNI. I customized the applications to work on iOS as well as Android, and developed various services using open API functions provided by Google, Facebook, and Twitter. In addition, I provided services to over 100,000 gamers in five countries without any problems. After successfully finishing the project in the SD Enternet, I was promoted to team leader and proceeded with the new project. I communicated with the game design, app design team and carried out the project smoothly.
+ <br>
+ <br>
+   Recently, I am working on personal projects using React and Javascript because I am interested in not only native applications, also web and hybrid applications. I believe my expertises of works and interest will contribute to new success as a member of new job. 
+</p>
