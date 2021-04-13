@@ -47,28 +47,35 @@ categories: protfolio update
 
 ## Professional History
 
-**Works Mobile Corporation / Intern**
-  *July. 2017 - August. 2017, Seongnam, Korea*
-  
-  + Developer of mobile messenger and natural language processing A.I.
-   
-**SDEnternet Inc. / Programmer**
-  *February. 2014 - August. 2016, Seoul, Korea*
+#### Works Mobile Corporation / Intern 
+###### July. 2017 - August. 2017, Seongnam, Korea
 
-  + Developer of mobile shooting game named 'BeetleWing'
-  + 'Beetlewing' gaming available in Korea, the United States, Japan, China, Vietnam and Brazil
-  + Developer of mobile strategy simulation game named ‘Project K’
++ Developer of mobile messenger and natural language processing A.I.
 
-**NetBlue Inc.  / Lead Programmer**
-  *September. 2011 - February. 2014, Daegu, Korea*
+<br/>
 
-  + Developer of computerized cognitive rehabilitation equipment for the treatment of Dementia
+#### SDEnternet Inc. / Programmer
+###### February. 2014 - August. 2016, Seoul, Korea
 
-**Amusant Startup Company / Programmer**
-  *January. 2011 - September 2011, Seoul, Korea*
++ Developer of mobile shooting game named 'BeetleWing'
++ 'Beetlewing' gaming available in Korea, the United States, Japan, China, Vietnam and Brazil
++ Developer of mobile strategy simulation game named ‘Project K’
 
-  + Developer of ‘MusicMaker’ mobile application.
-  + A program that can analyze a person's voice and compose music automatically.
+<br/>
+
+#### NetBlue Inc.  / Lead Programmer
+###### September. 2011 - February. 2014, Daegu, Korea
+
++ Developer of computerized cognitive rehabilitation equipment for the treatment of Dementia
+
+<br/>
+
+#### Amusant Startup Company / Programmer
+###### January. 2011 - September 2011, Seoul, Korea
+
++ Developer of ‘MusicMaker’ mobile application.
++ A program that can analyze a person's voice and compose music automatically.
+
 <br/>
 <br/>
 
