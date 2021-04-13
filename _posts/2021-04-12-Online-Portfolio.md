@@ -83,7 +83,7 @@ categories: protfolio update
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/line_works_logo.png" title="Line works" alt="lineworks"></img>
+  <img src="/assets/images/line_works_logo.png" title="Line works" alt="lineworks"/>
 </p>
 <br/>
 
@@ -103,7 +103,7 @@ categories: protfolio update
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/beetlewing_img_01.png" title="Beetlewing" alt="beetlewing"></img>
+  <img src="/assets/images/beetlewing_img_01.png" title="Beetlewing" alt="beetlewing"/>
 </p>
 <br/>
 Upgraded mobile version of the online game 'Beetlewing', which became popular as a feature of shooting games and casual flying games. <br/>Mobile re-creation of 'Battlewing' which was selected as a superior work in digital contents by the Ministry of Information and Communication. Availabled in Korea, the United States (English-speaking countries), Japan, China, Vietnam and Brazil (Portuguese)
@@ -115,7 +115,7 @@ Upgraded mobile version of the online game 'Beetlewing', which became popular as
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/navyfield_img_01.png" title="NavyField" alt="navyfiel"></img>
+  <img src="/assets/images/navyfield_img_01.png" title="NavyField" alt="navyfiel"/>
 </p>
 <br/>
 Strategic simulation mobile game based on the online naval battle game 'Navyfield'.<br/>This project was not opened to the public because it was an internal project.
@@ -135,7 +135,7 @@ Strategic simulation mobile game based on the online naval battle game 'Navyfiel
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/cotras_img_01.png" title="cotras" alt="cotras"></img>
+  <img src="/assets/images/cotras_img_01.png" title="cotras" alt="cotras"/>
 </p>
 <br/>
 It provides game-type contents to the elderly and the risk group of dementia, helping to vitalize the brain and prevent dementia. 
@@ -148,7 +148,7 @@ It provides game-type contents to the elderly and the risk group of dementia, he
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/cotras_m_img_01.png" title="cotras_m" alt="cotras_m"></img>
+  <img src="/assets/images/cotras_m_img_01.png" title="cotras_m" alt="cotras_m"/>
 </p>
 <br/>
 A mobile version of the PC-based ‘Cortras’ program that is implanted into Android and iOS environments.
@@ -169,7 +169,7 @@ A mobile version of the PC-based ‘Cortras’ program that is implanted into An
 </p>
 <br/>
 <p align="center">
-  <img src="/assets/images/musicmaker_img_01.png" title="musicmaker" alt="musicmaker"></img>
+  <img src="/assets/images/musicmaker_img_01.png" title="musicmaker" alt="musicmaker"/>
 </p>
 <br/>
 Humming is the easiest music people can make. However moving and organizing these sounds into real music requires expertise and it's so hard for the general public. Many people also think that the work of composing is done in a special place with professional equipment. But this android application breaks that bias and makes it easy to compose with people's voices. 
