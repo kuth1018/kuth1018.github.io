@@ -72,8 +72,9 @@ categories: protfolio update
 <br/>
 <br/>
 
+***
+
 # Portfolio
-<br/>
 
 **Works Mobile Corporation** / Intern *July. 2017 - August. 2017, Seongnam, Korea*
 <br/>
@@ -91,7 +92,9 @@ categories: protfolio update
 <br/>Conducts a project that analyzes instant messaging content and provides personalized service to individual users by combining instant messaging and natural language processing artificial intelligence.
 <br/>
 <br/>
+
 ***
+
 <br/>
 <br/>
 
